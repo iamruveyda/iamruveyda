@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 
 ## ⌨️ How to access my blog
 
-<a href="https://medium.com/@iamruveyda" target="_blank"> <img border="0" alt="Medium" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/medium.svg" > </a>
-<a href="https://dev.to/iamruveyda" target="_blank"> <img border="0" alt="Dev" src="https://raw.githubusercontent.com/iamruveyda/iamruveyda/4bfa3a8e011a2e53c2122cb484b41a0e0795ba06/img/devto.svg" > </a>
+<a href="https://medium.com/@iamruveyda" target="_blank"> <img border="0" height="60" alt="Medium" src="https://raw.githubusercontent.com/iamruveyda/images/master/Social%20Media/medium_new.png" > </a>
+
 
 ## 📫 How to reach me
 
