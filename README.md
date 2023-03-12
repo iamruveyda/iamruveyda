@@ -47,7 +47,7 @@
 
 <p>
   <a>
-    <img height="24" src="https://img.shields.io/badge/ACTIVE-06335A?style=flat-square">
+    <img height="24" src="https://img.shields.io/badge/actively%20working-06335A?style=flat-square">
   </a>
 </p>
 
@@ -101,6 +101,7 @@
       <a>
         <img height="22" src="https://img.shields.io/badge/Microsoft%20Excel-06335A?logo=microsoftexcel&logoColor=217346&style=flat-square">
         <img height="22" src="https://img.shields.io/badge/Microsoft%20PowerPoint-292A33?logo=microsoftpowerpoint&logoColor=B7472A&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/Microsoft%20Word-292A33?logo=microsoftword&logoColor=3C7CC3&style=flat-square">        
       </a>
     </td>
   </tr>

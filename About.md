@@ -1,6 +1,15 @@
-# List of Used in Github ReadMe Profile
+<h1 align="center">About</h1>
 
-## Decorate GitHub Profile
+<div align="center">
+   <a><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/iamruveyda?color=8B0000&style=flat-square"></a>
+   <a><img src="https://img.shields.io/badge/repository%20creation%20date-Nov%2005,2022-2E4053.svg?style=flat-square"></a>
+</div>
+
+<hr>
+
+## List of Used in Github ReadMe Profile
+
+### Decorate GitHub Profile
 
 - [ ] [Capsule Render][capsule-render]
 - [ ] [GitHub Profile Views Counter][profile-views-counter]
@@ -22,7 +31,7 @@
 
 - [ ] [Readme Typing SVG][typing-svg]
 
-## Badge, Icon...
+### Badge, Icon...
 
 - [Github Markdown Emoji][markdown-emoji]
 - [Markdown Badges][markdown-badges]
@@ -31,19 +40,11 @@
 - [Skill Icons][skill-icons]
 - [Vector Logo][vector-logo]
 
-## Tools
+### Tools
 
 - [GitHub Profile README Generator][readme-generator]
 - [GitHub Profile README / About Me Generator][githubprofilereadmegenerator]
 - [Table Convert][table-convert]
-
-<hr>
-
-<p>
-  <a href="https://www.linkedin.com/in/iamruveyda/">
-    <img align="center" height="20" src="https://img.shields.io/badge/Repository%20Creation%20Date-Nov%205,2022-blue.svg?style=flat-square">
-  </a>
-</p>
 
 <!------------------------------------------------------------------->
 
