@@ -27,9 +27,6 @@
   <a href="https://www.kaggle.com/iamruveyda">
     <img align="center" height="24" src="https://img.shields.io/badge/Kaggle-1A1B27?logo=kaggle&logoColor=20BEFF&style=for-the-badge">
   </a>
-  <a href="https://iamruveyda.medium.com/">
-    <img align="center" height="24" src="https://img.shields.io/badge/Medium-1A1B27?logo=medium&logoColor=fff&style=for-the-badge">
-  </a>
 </p>
 
 <hr>
@@ -168,11 +165,6 @@
 
 <!-------------------------------------------------------------------->
 
-## 📝 Latest Medium Article
-
-[![Ruveyda Medium](https://github-readme-medium.vercel.app/?username=iamruveyda)](https://medium.com/@iamruveyda)
-
-<hr>
 
 <div align="center">  
   <a style="font-size:30px">🌚🌘🌗🌝🌓🌒🌚</a> 
