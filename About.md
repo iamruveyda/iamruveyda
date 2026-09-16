@@ -1,46 +1,29 @@
-<h1 align="center">About</h1>
+<h1 align="center">🛠️ GitHub Profile Resources & Tools</h1>
 
-<div align="center">
-   <a><img alt="Repo Size" src="https://img.shields.io/github/repo-size/iamruveyda/iamruveyda?color=8B0000&style=flat-square"></a>
-   <a><img src="https://img.shields.io/badge/repository%20creation%20date-Nov%2005,2022-2E4053.svg?style=flat-square"></a>
-</div>
+Here is a curated list of awesome tools, badges, and decorations I use (or plan to use) to build and customize my GitHub profile README!
 
-<hr>
-
-## List of Used in Github ReadMe Profile
-
-### Decorate GitHub Profile
+## 🌟 Decorate GitHub Profile
 
 - [ ] [Capsule Render][capsule-render]
-- [ ] [GitHub Profile Views Counter][profile-views-counter]
-
-  It counts how many times your profile has been viewed.
-
-- [x] [GitHub Profile Trophy][profile-trophy]
-- [x] [GitHub Readme Medium][last-article-medium]
-
-  Shows the most recently shared Medium article(s).
-
+- [ ] [GitHub Profile Views Counter][profile-views-counter] — Counts how many times your profile has been viewed.
+- [ ] [GitHub Profile Trophy][profile-trophy]
+- [ ] [GitHub Readme Medium][last-article-medium] — Shows your most recently shared Medium article(s).
 - [ ] [GitHub Readme Quotes][github-readme-quotes]
 - [x] [GitHub Readme Stats][readme-stats]
-- Top Languages Card
-
-- [x] [Github Readme Streak Stats][streak-stats]
-
-  Allows you to show your total contributions, current streak and longest streak in profile.
-
+- [x] [Github Readme Streak Stats][streak-stats] — Displays total contributions, current streak, and longest streak.
 - [ ] [Readme Typing SVG][typing-svg]
 
-### Badge, Icon...
+## 🎨 Badges & Icons
 
-- [Github Markdown Emoji][markdown-emoji]
+- [GitHub Markdown Emoji][markdown-emoji]
 - [Markdown Badges][markdown-badges]
 - [Simple Badges][simple-badges]
 - [Simple Icons][simple-icons]
 - [Skill Icons][skill-icons]
 - [Vector Logo][vector-logo]
+- [Icon Badges][icon-badges]
 
-### Tools
+## 🧰 Useful Tools
 
 - [GitHub Profile README Generator][readme-generator]
 - [GitHub Profile README / About Me Generator][githubprofilereadmegenerator]
@@ -85,6 +68,7 @@ Here are some ideas to get you started:
 [simple-icons]: https://github.com/simple-icons/simple-icons
 [skill-icons]: https://github.com/tandpfun/skill-icons
 [vector-logo]: https://github.com/VectorLogoZone/vectorlogozone
+[icon-badges]: https://github.com/DenverCoder1/custom-icon-badges
 
 <!-- Links 3 -->
 

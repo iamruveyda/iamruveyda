@@ -1,171 +1,117 @@
 <div align="center">
-  <h1>Hi there👋, I'm Rüveyda</h1>
+  <div
+    style="
+      background-color: #0b0d15;
+      border-radius: 10px;
+      padding: 20px 30px;
+      max-width: 650px;
+      text-align: center;
+    "
+  >
+    <!-- Linux Terminal Komut Satırı -->
+    <p style="font-family: monospace; font-size: 16px; margin: 0 0 10px 0">
+      <span style="color: #7ee787">user@linux</span>:<span
+        style="color: #79c0ff"
+        >~</span
+      >$ python3 solve_problem.py
+    </p>
+    <!-- H1 Boyutunda Hello World Çıktısı -->
+    <h1 style="color: #ffffff; margin: 0; font-family: monospace">
+      Hello World! I am Ruveyda
+    </h1>
+  </div>
 </div>
+
+<hr />
 
 <!-------------------------------------------------------------------->
 
 <!-- Github Readme Streak Stats -->
-
 <div align="center">
-
-<a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamruveyda&theme=tokyonight&hide_border=true"/>
-</a>
-
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=iamruveyda&theme=tokyonight&hide_border=true"
+    />
+  </a>
 </div>
 
 <!-------------------------------------------------------------------->
 
-<h2> About Me </h2>
-<img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-<p>👀 I'm interested in Data Science.</p>
-<p>💻 Most of my projects are available in private or public <a href="https://github.com/iamruveyda?tab=repositories">repositories.</a></p>
-<p>📁 My certificates (completion, course, achievement, etc.) are available in public <a href="https://github.com/iamruveyda/Certifications">repository.</a></p>
+<br />
+
+### About Me
+
+<ul>
+  <li>🎓 <b>Computer Engineer</b> focused on practical, data-driven problem solving.</li>
+  <li>🌉 Bridging the gap between software engineering, data workflows, and business operations.</li>
+  <li>🧠 Leveraging Generative AI, Prompt Engineering, and Process Automation to streamline analysis and optimize business workflows.</li>
+</ul>
+
+<!-- Social & Platform Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/iamruveyda/">
-    <img align="center" height="24" src="https://img.shields.io/badge/LinkedIn-1A1B27?logo=linkedin&logoColor=0A66C2&style=for-the-badge">
+  <a href="https://www.linkedin.com/">
+    <img align="center" height="30" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-1A1B27?logo=linkedin-white&logoColor=FFFFFF&style=for-the-badge">
   </a>
-  <a href="https://www.kaggle.com/iamruveyda">
-    <img align="center" height="24" src="https://img.shields.io/badge/Kaggle-1A1B27?logo=kaggle&logoColor=20BEFF&style=for-the-badge">
+  <a href="https://www.kaggle.com/">
+    <img align="center" height="30" src="https://img.shields.io/badge/Kaggle-1A1B27?logo=kaggle&logoColor=20BEFF&style=for-the-badge">
   </a>
 </p>
 
-<hr>
+<hr />
 
 <!-------------------------------------------------------------------->
-<h3><details>
-    <summary>💻 Languages & Tools</summary>
+<h3>
+<details>
+  <summary>⚙️ Technical Toolkit</summary>
+  <br>
+  <table style="width:100%">
+    <tr>
+      <th>Data Science & Machine Learning</th>
+      <td>
+        <img height="22" src="https://img.shields.io/badge/Python-0b0d15?logo=python&logoColor=3776AB&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/Pandas-0b0d15?logo=Pandas&logoColor=3776AB&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/NumPy-0b0d15?logo=NumPy&logoColor=3776AB&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/Scikit--learn-0b0d15?logo=scikitlearn&logoColor=F7931E&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/R-0b0d15?logo=R&logoColor=75AADB&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/IBM%20SPSS%20Statistics-0b0d15?logo=ibm&logoColor=FFFFFF&style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <th>Databases & Version Control</th>
+      <td>
+        <img height="22" src="https://img.shields.io/badge/PostgreSQL-0b0d15?logo=postgresql&logoColor=62B6E6&style=flat-square" />
+        <img height="22" src="https://img.shields.io/badge/Git-0b0d15?logo=git&logoColor=F05032&style=flat-square" />
+        <img height="22" src="https://img.shields.io/badge/GitHub-0b0d15?logo=github&logoColor=fff&style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <th>Visualization & Design</th>
+      <td>
+        <img height="22" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-0b0d15.svg?logo=Matplotlib&style=flat-square">
+        <img height="22" src="https://custom-icon-badges.demolab.com/badge/Seaborn-0b0d15.svg?logo=Seaborn&style=flat-square"> 
+        <img height="22" src="https://custom-icon-badges.demolab.com/badge/Canva-0b0d15.svg?logo=Canva&style=flat-square">    
+      </td>
+    </tr>
+    <tr>
+      <th>Mobile Development</th>
+      <td>
+        <img height="22" src="https://img.shields.io/badge/Flutter-0b0d15?logo=flutter&logoColor=02569B&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/Dart-0b0d15?logo=dart&logoColor=0175C2&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/Android-0b0d15?logo=android&logoColor=3DDC84&style=flat-square">
+      </td>
+    </tr>
+    <tr>
+      <th>IDEs & Tools</th>
+      <td>
+        <img height="22" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0b0d15.svg?logo=visualstudiocode&logoColor=007ACC&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/Jupyter-0b0d15?logo=jupyter&logoColor=F37626&style=flat-square" />
+        <img height="22" src="https://img.shields.io/badge/Google%20Colab-0b0d15?logo=googlecolab&logoColor=FBBC05&style=flat-square" />      
+        <img height="22" src="https://custom-icon-badges.demolab.com/badge/RStudio-0b0d15?logo=rstudio&logoColor=75AADB&style=flat-square" />
+        <img height="22" src="https://img.shields.io/badge/HTML5-0b0d15?logo=html5&logoColor=E34C26&style=flat-square">
+        <img height="22" src="https://img.shields.io/badge/Markdown-0b0d15?logo=markdown&logoColor=FFFFFF&style=flat-square">
+      </td>
+    </tr>
 
-<br>
-
-<a style="font-size:0.83em">
-
-> **Note**
-> Shown in the table are some of the technologies I'm actively working with and have worked with before.
-
-<p>
-  <a>
-    <img height="24" src="https://img.shields.io/badge/actively%20working-06335A?style=flat-square">
-  </a>
-</p>
-
-</a>
-<br>
-
-<!-- Markdown Badges -->
-
-<a style="font-size:0.83em">
-<table style="width:100%">
-  <tr>
-    <th>Languages</th>
-    <td>
-      <a>
-        <img height="22" src="https://img.shields.io/badge/Markdown-06335A?logo=markdown&logoColor=FFFFFF&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/Python-06335A?logo=python&logoColor=3776AB&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/R-06335A?logo=R&logoColor=3776AB&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/C-292A33?logo=c&logoColor=394AAB&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/C%20Sharp-292A33?logo=csharp&logoColor=953DAC&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/CSS3-292A33?logo=css3&logoColor=0277BD&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/HTML5-292A33?logo=html5&logoColor=E14E1D&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/JavaScript-292A33?logo=javascript&logoColor=F0DB4F&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/Java-292A33?logo=java&logoColor=C16C20&style=flat-square">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>IDEs/Editors</th>
-    <td>
-      <a>
-        <img height="22" src="https://img.shields.io/badge/Notepad%2B%2B-06335A?logo=notepadplusplus&logoColor=90E59A&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/Jupyter-06335A?logo=jupyter&logoColor=F37626&style=flat-square" />
-        <img height="22" src="https://img.shields.io/badge/RStudio-06335A?logo=RStudio&logoColor=75AADB&style=flat-square" />       
-        <img height="22" src="https://img.shields.io/badge/Visual%20Studio%20Code-06335A?logo=visualstudiocode&logoColor=007ACC&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/Visual%20Studio-292A33?logo=visualstudio&logoColor=5C2D91&style=flat-square">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Version Control</th>
-    <td>
-      <a>
-        <img height="22" src="https://img.shields.io/badge/Git-06335A?logo=git&logoColor=F05032&style=flat-square" />
-        <img height="22" src="https://img.shields.io/badge/GitHub-06335A?logo=github&logoColor=fff&style=flat-square">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Office</th>
-    <td>
-      <a>
-        <img height="22" src="https://img.shields.io/badge/Microsoft%20Excel-06335A?logo=microsoftexcel&logoColor=217346&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/Microsoft%20PowerPoint-292A33?logo=microsoftpowerpoint&logoColor=B7472A&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/Microsoft%20Word-292A33?logo=microsoftword&logoColor=3C7CC3&style=flat-square">        
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Databases</th>
-    <td>
-      <a>
-        <img height="22" src="https://img.shields.io/badge/SQLite-292A33?logo=sqlite&logoColor=62B6E6&style=flat-square" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Design</th>
-    <td>
-      <a>
-        <img height="22" src="https://img.shields.io/badge/Canva-292A33?logo=canva&logoColor=00C4CC&style=flat-square">
-        <img height="22" src="https://img.shields.io/badge/Figma-292A33?logo=figma&logoColor=F24E1E&style=flat-square">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <th>Other</th>
-    <td>
-      <a>
-        <img height="22" src="https://img.shields.io/badge/IBM%20SPSS%20Statistics-06335A?logo=IBM&logoColor=FFFFFF&style=flat-square">
-      </a>
-    </td>
-  </tr>
   </table>
-
-</a>
 </details>
 </h3>
-
-<hr>
-
-<!-------------------------------------------------------------------->
-
-<h3> <details>
-
-  <summary> 📈 Profile Stats </summary>
-  <br>
-
-<!-- Top Languages Card -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamruveyda&langs_count=6&layout=compact&hide_border=true&theme=tokyonight)
-
-</details> </h3>
-
-<hr>
-<!-------------------------------------------------------------------->
-
-<!-- GitHub Profile Trophy -->
-
-<h3> <details>
-    <summary>🏆 Profile Trophy</summary> 
-<br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=iamruveyda&theme=tokyonight&no-frame=true&rank=-?,-C)
-
-</details></h3>
-
-<hr>
-
-<!-------------------------------------------------------------------->
-
-
-<div align="center">  
-  <a style="font-size:30px">🌚🌘🌗🌝🌓🌒🌚</a> 
-</div>
