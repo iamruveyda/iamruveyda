@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamruveyda&theme=tokyonight&hide_border=true"/>
+<a> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=iamruveyda&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
