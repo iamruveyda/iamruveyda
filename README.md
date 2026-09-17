@@ -26,13 +26,14 @@
 
 <!-------------------------------------------------------------------->
 
+
 <!-- Github Readme Streak Stats -->
+
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=iamruveyda&theme=tokyonight&hide_border=true"
-    />
-  </a>
+
+<a> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamruveyda&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
 
 <!-------------------------------------------------------------------->
